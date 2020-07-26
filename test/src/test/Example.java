@@ -1,7 +1,7 @@
 package test;
 //111222333
 //111222555
-//555
+//55566
 public class Example{ 
 	String str=new String("good"); 
 	char[]ch={'a','b','c'}; 
