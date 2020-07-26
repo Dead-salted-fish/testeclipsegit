@@ -1,5 +1,5 @@
 package test;
-//111222
+//111222555
 public class Example{ 
 	String str=new String("good"); 
 	char[]ch={'a','b','c'}; 
